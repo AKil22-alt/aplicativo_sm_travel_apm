@@ -1,0 +1,11 @@
+{
+  "usuario": [
+    {
+      "id": "1",
+      "nome": "Administrador",
+      "email": "admin@smhotel.com",
+      "senha": "123456"
+    }
+  ],
+  "cadastro-usuario": []
+}
